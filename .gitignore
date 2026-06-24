@@ -1,0 +1,15 @@
+target/
+*.class
+*.jar
+*.log
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+.DS_Store
+application-dev.yml
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
